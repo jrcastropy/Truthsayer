@@ -1,3 +1,7 @@
 _metadata
 .DS_Store
+venv
+*.mp4
+*.avi
+*__pycache__*
 
